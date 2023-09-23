@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752148015190",
+    "project_id": "fir-clubmanagement-a187991",
+    "storage_bucket": "fir-clubmanagement-a187991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752148015190:android:3961fabc9d38721184f3f7",
+        "android_client_info": {
+          "package_name": "com.example.firebaseclubmanagement_a187991"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyShSyu2Oe3mcaFFk1eG-r3PMjUk9PQiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
